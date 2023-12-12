@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @crrrypto999
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning go & python
